@@ -1,0 +1,11 @@
+[
+  {
+    "slug": "_example-topic",
+    "title": "示例主题",
+    "path": "research/_example-topic",
+    "readme": "research/_example-topic/README.md",
+    "updated_at": "2026-11-04",
+    "example": true,
+    "summary": "布局示例，不是真实研究。"
+  }
+]
