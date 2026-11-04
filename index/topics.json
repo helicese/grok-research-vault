@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-lottie-generation",
+    "title": "AI 生成 Lottie",
+    "path": "research/ai-lottie-generation",
+    "readme": "research/ai-lottie-generation/README.md",
+    "updated_at": "2026-11-04",
+    "summary": "生产级 AI 生成 Lottie 应走编辑器 AI、中间 Spec、专用 tokenizer 或 Agent 加渲染校验，不要让通用 LLM 直接写完整 Lottie JSON。"
+  },
+  {
     "slug": "_example-topic",
     "title": "示例主题",
     "path": "research/_example-topic",
