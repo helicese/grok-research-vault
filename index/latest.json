@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-05",
   "entries": [
+    {
+      "topic": "ai-lottie-generation",
+      "date": "2026-11-05",
+      "path": "research/ai-lottie-generation/notes/2026-11-05-ai-lottie-tavily-v2.md",
+      "summary": "Lottie 是矢量动画指令 JSON；通用大模型零样本几乎吐不出可渲染文件。今天最稳路径是 LottieFiles Creator 的 Motion Copilot / Prompt to Lottie / SVG→Lottie，产品管线应校验与多端冒烟，而不是裸 LLM 默写 JSON。"
+    },
     {
       "topic": "ai-lottie-generation",
       "date": "2026-11-04",
