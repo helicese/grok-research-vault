@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-10",
   "entries": [
+    {
+      "topic": "frontend-team-value",
+      "date": "2026-11-10",
+      "path": "research/frontend-team-value/notes/2026-11-10-frontend-indispensability-report.md",
+      "summary": "用可核实的数据和案例，把前端价值翻译成收入、稳定性、合规风险和研发效率：前端直接对用户侧的收入、可用性和合规负责，AI 降低的是写代码的成本，不是对用户体验负责的成本。"
+    },
     {
       "topic": "_example-topic",
       "date": "2026-11-04",
