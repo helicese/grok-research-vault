@@ -1,5 +1,13 @@
 [
   {
+    "slug": "ai-marketing-creative-plays",
+    "title": "营销创意生成与互动玩法",
+    "path": "research/ai-marketing-creative-plays",
+    "readme": "research/ai-marketing-creative-plays/README.md",
+    "updated_at": "2026-11-25",
+    "summary": "对照妙思、万相营造、即创、GenStudio 和试玩/H5/共创案例，看快速生成营销素材与互动玩法的现成方案。"
+  },
+  {
     "slug": "_example-topic",
     "title": "示例主题",
     "path": "research/_example-topic",
